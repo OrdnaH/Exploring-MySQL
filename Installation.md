@@ -1,8 +1,8 @@
 # Installing the Sakila Sample Database
 
-For this homework, you’ll need to load data from a sample database provided by MySQL named [Sakila](https://dev.mysql.com/doc/sakila/en/sakila-installation.html).
+You’ll need to load data from a sample database provided by MySQL named [Sakila](https://dev.mysql.com/doc/sakila/en/sakila-installation.html).
 
-All queries noted in the instructions for the homework are tied to this database, so you must complete this step before moving forward.
+All queries noted in the instructionsare tied to this database, so you must complete this step before moving forward.
 
 If you’re on a PC and used MySQL Installer to install MySQL, you may already have the Sakila database loaded. Before you do anything else, open MySQL workbench and examine the list of databases loaded on your computer:
 
@@ -14,7 +14,7 @@ If the **sakila** DB is on this list, congrats! You can run
 use sakila;
 ```
 
-and start the homework. Otherwise, read on.
+and start the exercises. Otherwise, read on.
 
 ## Download the Sakila DB
 
