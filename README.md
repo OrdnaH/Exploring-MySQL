@@ -1,6 +1,8 @@
-# Homework Assignment
+# Exploring MySQL
 
-## Installation Instructions
+Using MySQL’s Sakila Sample Database, write advanced queries on a database designed to resemble a real-world system.  
+
+## Installation
 
 * Refer to the [installation guide](Installation.md) to install the necessary files.
 
